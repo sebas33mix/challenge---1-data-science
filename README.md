@@ -74,4 +74,4 @@ A partir del análisis realizado, se identifica la tienda que presenta el **mejo
 
 Las conclusiones están respaldadas por **datos y visualizaciones** desarrolladas a lo largo del notebook.
 
-[!Ingresos por tienda](Ingresos_totales_por_tienda.png)
+![Ingresos por tienda](Ingresos_totales_por_tienda.png)
